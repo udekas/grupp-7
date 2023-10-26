@@ -124,6 +124,35 @@ body{
 }
 
 
+.costs_base {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+} 
+
+.costs_image {
+    width: 100vw;
+    height: auto;
+}
+
+.costs_image img {
+    width: 100vw;
+    height: auto;
+}
+
+.costs_text {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.costs_text1 {
+    font-size: x-large;
+}
+
+.costs_text2 {
+    font-size: large;
+}
+
 @media (min-width: 1024px){
     .logo_base{
     height: 75px;
@@ -163,6 +192,37 @@ body{
 .btn_base h3{
     font-size: x-large;
 }
+
+.costs_image {
+    width: 70%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.costs_image img {
+    width: 70%;
+    height: auto;
+}
+
+.costs_base {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.costs_text1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.costs_text2 {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 90ch;
+}
+}
+
 
 
 .images{
@@ -206,5 +266,6 @@ body{
     width: 750px;
 }
 }
+
 
 
