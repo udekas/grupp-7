@@ -151,6 +151,7 @@ body{
 
 .costs_text2 {
     font-size: large;
+    margin-bottom: 20px;
 }
 
 @media (min-width: 1024px){
@@ -201,7 +202,7 @@ body{
 }
 
 .costs_image img {
-    width: 70%;
+    width: 90%;
     height: auto;
 }
 
@@ -214,14 +215,16 @@ body{
 .costs_text1 {
     display: flex;
     justify-content: flex-start;
+    margin-top: 10px;
 }
 
 .costs_text2 {
     display: flex;
     justify-content: flex-start;
     max-width: 90ch;
+    margin-bottom: 20px;
 }
-}
+
 
 
 
@@ -248,10 +251,10 @@ body{
     height: 240px;
     width: 200px;
 }
+
+.hptext1{
+    margin-top: 20px;
 }
-
-
-
 .homepagepic{
     margin: 20px;
     width: 420px;
@@ -265,7 +268,5 @@ body{
 .spacer{
     width: 750px;
 }
+
 }
-
-
-
