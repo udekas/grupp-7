@@ -43,7 +43,30 @@ body{
     color: black;
     font-size: large;
 }
+.images{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 35% 35%;
+    grid-template-rows: 25% 25% 25% 25%;
+    gap: 40px;
+    font-size: 12px;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
 
+.images img{
+    height: 120px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.photo{
+    height: 120px;
+    width: 100px;
+    
+}
 @media (min-width: 1024px){
     .logo_base{
     height: 75px;
@@ -73,4 +96,30 @@ body{
 .btn_base h3{
     font-size: x-large;
 }
+
+.images{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 20% 20% 20% 20%;
+    grid-template-rows: 50% 50%;
+    gap: 65px;
+    font-size: 20px;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
 }
+
+.images img{
+    height: 240px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.photo{
+    height: 240px;
+    width: 200px;
+}
+}
+
+
