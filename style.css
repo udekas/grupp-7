@@ -54,6 +54,7 @@ body{
     justify-items: center;
     align-items: center;
     justify-content: center;
+    margin-bottom: 30px;
 }
 
 .images img{
@@ -273,6 +274,7 @@ body{
     margin-top: 20px;
     column-gap: 50px;
     row-gap: 50px;
+    margin-bottom: 30px;
 }
 
 .GalleryPhoto img {
@@ -281,9 +283,6 @@ body{
     border-radius: 10px;
     object-fit: fill;
 }
-
-
-
 .images img{
     height: 240px;
     width: 200px;
