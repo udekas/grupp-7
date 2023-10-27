@@ -14,7 +14,7 @@ Tarkvara projekt 2 (2023) - Grupp 7
 
 - Kevin Zukker TAK-21
 
-#### Meeskond
+#### Käsilased
 
 - Andre Leppik TAK-23
 
