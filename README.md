@@ -60,14 +60,14 @@ Suhtluskanalid: **Slack**.
 - 
 
 **Andre**
-- 
-- 
-- 
+- oskan paremini tiimitööd teha järgmine kord
+- sain tiimitöö kogemuse
+- õppisin paremini koodimist 
 
 **Anree**
-- 
-- 
-- 
+- suhelda tiimikaaslastega ja arutame asjad läbi
+- arendasin tiimitööd
+- koodimist html ja css
 
 **Marek**
 -  
