@@ -28,7 +28,9 @@ Teha veebileht valitud filmi kohta
 
 ## Töö käik
 
-
+Kolmapäeval tutvusime tiimiga ja hakkasime tegema figma disaini, kolmapäeva õhtuks oli meil valmis figma telefoni versioon ja natukene alustatud desctop vaatega.
+Neljapäeva hommikul tegime umbes 1h figmat ja peale seda hakkasime tegema koodi, õhtuks oli leht valmis.
+Reedel laadisime lehe laivi ja hakkasime tegelema optimiseerimisega millega oli palju toimetamist.
 
 ### Kommunikatsioon
 Suhtluskanalid: **Slack**.
@@ -37,47 +39,37 @@ Suhtluskanalid: **Slack**.
 
 [Figma](https://www.figma.com/file/aWyl2rd0fb9aKLiP6f0mg7/Grupp-7?type=design&node-id=0%3A1&mode=design&t=VY2T6Xk8qHpUCapW-1)
 
-[Portfoolio](https://ta23udekull.itmajakas.ee/)
+[Leht](https://ta23udekull.itmajakas.ee/)
 
 ### Projekt:
 
 ### Iga tiimi liikme nime ja vastuseid kolmele küsimusele
-- Üks pehme oskus, mida õppisin ja endas arendasin
-- Üks tehniline oskus, mida õppisin ja endas arendasin
-- Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
-
-**Andrus**
-- Osaline tiimi juhtimise kogemus.
-- Proovida juhendada selle asemel, et ise ära teha asju. 
-- Giti repo haldamine
-- Ei 
-
-**Kenneth**
-- Tiimi juhendamine, uutele õpilastele projekti käigu seletamine.
-- Githubi projekti haldamine
-- Olin juhendaja rolliga rahul, oli hea tunne aidata inimesi nende asjadega, millega ise olen varem kimpus olnud.
-
-**Silja**
-- Tiimitöö
-- Koodi kirjutamine
-- Ei
-
-**Marcus**
-- Tiimiga suhtlemine ja abistamine
-- Sain targemaks veebisaidi disainimisel ja funktsionaalseks tegemisel
-- Ei oska öelda
-
-**Kristo**
-- Tiimitoo 
-- Oskan paremini disainida veebisaite 
-- Ei
+- Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides?
+- Üks pehme oskus, mida õppisin ja endas arendasin.
+- Üks tehniline oskus, mida õppisin ja endas arendasin.
 
 **Marten**
-- Tiimitöö
-- Täiendasin koodikirjutamise oskusi
-- Ei sain täita just neid ülesandeid mis pakkusid huvi
+- 
+-  
+- 
 
-**Gendro**
-- Tiimitöö
-- Koodi kirjutamist
-- Ei
+
+**Kevin**
+- 
+- 
+- 
+
+**Andre**
+- 
+- 
+- 
+
+**Anree**
+- 
+- 
+- 
+
+**Marek**
+-  
+-  
+- 
