@@ -14,7 +14,7 @@ Tarkvara projekt 2 (2023) - Grupp 7
 
 - Kevin Zukker TAK-21
 
-#### Meeskond
+#### Käsilased
 
 - Andre Leppik TAK-23
 
@@ -49,9 +49,9 @@ Suhtluskanalid: **Slack**.
 - Üks tehniline oskus, mida õppisin ja endas arendasin.
 
 **Marten**
-- 
--  
-- 
+- Suhtlen aktiivselt tiimiga ja arutan läbi asju
+- Tiimitöö ja juhtimine
+- Optimiseerimist
 
 
 **Kevin**
