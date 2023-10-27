@@ -49,9 +49,9 @@ Suhtluskanalid: **Slack**.
 - Üks tehniline oskus, mida õppisin ja endas arendasin.
 
 **Marten**
-- 
--  
-- 
+- Suhtlen aktiivselt tiimiga ja arutan läbi asju
+- Tiimitöö ja juhtimine
+- Optimiseerimist
 
 
 **Kevin**
