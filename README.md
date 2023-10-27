@@ -51,13 +51,13 @@ Suhtluskanalid: **Slack**.
 **Marten**
 - Suhtlen aktiivselt tiimiga ja arutan läbi asju
 - Tiimitöö ja juhtimine
-- Optimiseerimist
+- Optimeerimist
 
 
 **Kevin**
 - Tiimiga suhtlemine 
 - Suur areng tiimitöö ning suhtluse osas
-- Optimiseerimine
+- Optimeerimine
 
 **Andre**
 - oskan paremini tiimitööd teha järgmine kord
