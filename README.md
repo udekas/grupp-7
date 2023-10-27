@@ -55,9 +55,9 @@ Suhtluskanalid: **Slack**.
 
 
 **Kevin**
-- 
-- 
-- 
+- Tiimiga suhtlemine 
+- Suur areng tiimitöö ning suhtluse osas
+- Optimiseerimine
 
 **Andre**
 - oskan paremini tiimitööd teha järgmine kord
@@ -70,6 +70,6 @@ Suhtluskanalid: **Slack**.
 - koodimist html ja css
 
 **Marek**
--  
--  
-- 
+-  osakan mingil tasandil html ja css palju paremini
+-  suhtlus tiimiga 
+-  html ja css
