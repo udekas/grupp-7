@@ -42,7 +42,7 @@ Desktop:
 
 Mobile: 
 
-<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/e1505f41-f737-4ba0-8ef0-d2a883f1dc47">
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/7932777e-731c-4c9c-adf1-c953e882bbdd">
 
 
 #### Actors
@@ -63,7 +63,7 @@ Desktop:
 
 Mobile: 
 
-<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/31287743-edee-4ba2-8b1b-5812d09058e6">
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/cbf8bf0e-533d-4318-8652-c8268fd3e1ea">
 
 #### Gallery
 
