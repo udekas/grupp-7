@@ -32,6 +32,49 @@ Kolmapäeval tutvusime tiimiga ja hakkasime tegema figma disaini, kolmapäeva õ
 Neljapäeva hommikul tegime umbes 1h figmat ja peale seda hakkasime tegema koodi, õhtuks oli leht valmis.
 Reedel laadisime lehe laivi ja hakkasime tegelema optimiseerimisega millega oli palju toimetamist.
 
+## Kiirustestid
+#### Main Page
+
+Desktop:
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/1438ddc7-0ec2-4260-9b22-1a2a6f3239a8">
+
+
+Mobile: 
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/e1505f41-f737-4ba0-8ef0-d2a883f1dc47">
+
+
+#### Actors
+
+Desktop: 
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/609075f6-a52b-4cfc-b005-a76203205885">
+
+Mobile:
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/7932777e-731c-4c9c-adf1-c953e882bbdd">
+
+#### Costs
+
+Desktop: 
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/08572498-8171-4a1b-953d-753ed783aeaa">
+
+Mobile: 
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/31287743-edee-4ba2-8b1b-5812d09058e6">
+
+#### Gallery
+
+Desktop: 
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/cf4b7c32-b9c8-4dd0-a574-2d76dceb3044">
+
+Mobile:
+
+<img width="444" alt="image" src="https://github.com/udekas/grupp-7/assets/92793367/cbf8bf0e-533d-4318-8652-c8268fd3e1ea">
+
 ### Kommunikatsioon
 Suhtluskanalid: **Slack**.
 
